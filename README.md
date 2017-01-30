@@ -5,7 +5,7 @@ This is a fork of the [library from Sparkfun for the APDS-9960 sensor](https://g
 
 [**Quick-start guide available here**](http://davideddu.org/blog/posts/apds-9930-arduino-quickstart/)
 
-[**Purchase an Avago APDS-9930 Breakout Board here**](http://www.dx.com/p/384037?Utm_rid=14976370&Utm_source=affiliate)
+[**Purchase an APDS-9930 Breakout Board here**](https://electronics.semaf.at/APDS9930-Ambient-Light-and-Proximity-sensor)
 
 ![Avago APDS-9930 Breakout Board](http://img.dxcdn.com/productimages/sku_384037_1.jpg)
 
